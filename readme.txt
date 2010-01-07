@@ -3,7 +3,7 @@ Contributors: sergio.martinez
 Tags: tdplugin,tdplugin-en,tradedoubler,td,affiliate,afiliados
 Requires at least: 2.0.2
 Tested up to: 2.8
-Stable tag: 4.3
+Stable tag: trunk
 
 Makes publication easier for affiliates
 
